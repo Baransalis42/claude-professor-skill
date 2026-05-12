@@ -144,7 +144,14 @@ Claude will teach, quiz, test, or predict — depending on your mode — using y
 Pull requests are welcome. If you have ideas for new modes, better MCQ rendering, or subject-specific improvements — open an issue first to discuss.
 
 ---
+## 📬 Contact
 
+**Baran Salis** — [@Baransalis42](https://github.com/Baransalis42)
+**Emrecan Bektas** — [@emrecanbektas](https://github.com/emrecanbektas)
+
+**Project Link:** — https://github.com/emrecanbektas/claude-professor-skill)
+
+---
 ## 📄 License
 
 MIT License — free to use, modify, and distribute. See [LICENSE](./LICENSE) for details.
